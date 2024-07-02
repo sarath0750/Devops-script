@@ -2,3 +2,10 @@
 
 1. Clone a project
 git clone <project_url>
+
+2.check the status of change
+3. git status
+add changed files tothe git
+git commit -m "<commit_message>"
+6.push the change to github
+git push -u origin <branch_name>
