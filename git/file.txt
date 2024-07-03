@@ -9,3 +9,9 @@ add changed files tothe git
 git commit -m "<commit_message>"
 6.push the change to github
 git push -u origin <branch_name>
+create a branch and checkout to branch
+git checkout -b <branch_name_to__be_created>
+to list the branches
+git branch
+checkout to an existing branch
+git checkout <branch_name>
